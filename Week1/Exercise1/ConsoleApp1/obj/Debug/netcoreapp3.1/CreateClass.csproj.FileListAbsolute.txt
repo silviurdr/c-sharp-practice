@@ -1,0 +1,13 @@
+D:\.NET-C#\SI_assignments\Week1\Exercise1\ConsoleApp1\bin\Debug\netcoreapp3.1\CreateClass.exe
+D:\.NET-C#\SI_assignments\Week1\Exercise1\ConsoleApp1\bin\Debug\netcoreapp3.1\CreateClass.deps.json
+D:\.NET-C#\SI_assignments\Week1\Exercise1\ConsoleApp1\bin\Debug\netcoreapp3.1\CreateClass.runtimeconfig.json
+D:\.NET-C#\SI_assignments\Week1\Exercise1\ConsoleApp1\bin\Debug\netcoreapp3.1\CreateClass.runtimeconfig.dev.json
+D:\.NET-C#\SI_assignments\Week1\Exercise1\ConsoleApp1\bin\Debug\netcoreapp3.1\CreateClass.dll
+D:\.NET-C#\SI_assignments\Week1\Exercise1\ConsoleApp1\bin\Debug\netcoreapp3.1\CreateClass.pdb
+D:\.NET-C#\SI_assignments\Week1\Exercise1\ConsoleApp1\obj\Debug\netcoreapp3.1\CreateClass.csprojAssemblyReference.cache
+D:\.NET-C#\SI_assignments\Week1\Exercise1\ConsoleApp1\obj\Debug\netcoreapp3.1\CreateClass.AssemblyInfoInputs.cache
+D:\.NET-C#\SI_assignments\Week1\Exercise1\ConsoleApp1\obj\Debug\netcoreapp3.1\CreateClass.AssemblyInfo.cs
+D:\.NET-C#\SI_assignments\Week1\Exercise1\ConsoleApp1\obj\Debug\netcoreapp3.1\CreateClass.csproj.CoreCompileInputs.cache
+D:\.NET-C#\SI_assignments\Week1\Exercise1\ConsoleApp1\obj\Debug\netcoreapp3.1\CreateClass.dll
+D:\.NET-C#\SI_assignments\Week1\Exercise1\ConsoleApp1\obj\Debug\netcoreapp3.1\CreateClass.pdb
+D:\.NET-C#\SI_assignments\Week1\Exercise1\ConsoleApp1\obj\Debug\netcoreapp3.1\CreateClass.genruntimeconfig.cache

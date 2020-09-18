@@ -1,0 +1,13 @@
+D:\.NET-C#\SI_assignments\Week3\Serialization\Serialization\bin\Debug\netcoreapp3.1\SerializePeople.exe
+D:\.NET-C#\SI_assignments\Week3\Serialization\Serialization\bin\Debug\netcoreapp3.1\SerializePeople.deps.json
+D:\.NET-C#\SI_assignments\Week3\Serialization\Serialization\bin\Debug\netcoreapp3.1\SerializePeople.runtimeconfig.json
+D:\.NET-C#\SI_assignments\Week3\Serialization\Serialization\bin\Debug\netcoreapp3.1\SerializePeople.runtimeconfig.dev.json
+D:\.NET-C#\SI_assignments\Week3\Serialization\Serialization\bin\Debug\netcoreapp3.1\SerializePeople.dll
+D:\.NET-C#\SI_assignments\Week3\Serialization\Serialization\bin\Debug\netcoreapp3.1\SerializePeople.pdb
+D:\.NET-C#\SI_assignments\Week3\Serialization\Serialization\obj\Debug\netcoreapp3.1\SerializePeople.AssemblyInfoInputs.cache
+D:\.NET-C#\SI_assignments\Week3\Serialization\Serialization\obj\Debug\netcoreapp3.1\SerializePeople.AssemblyInfo.cs
+D:\.NET-C#\SI_assignments\Week3\Serialization\Serialization\obj\Debug\netcoreapp3.1\SerializePeople.csproj.CoreCompileInputs.cache
+D:\.NET-C#\SI_assignments\Week3\Serialization\Serialization\obj\Debug\netcoreapp3.1\SerializePeople.dll
+D:\.NET-C#\SI_assignments\Week3\Serialization\Serialization\obj\Debug\netcoreapp3.1\SerializePeople.pdb
+D:\.NET-C#\SI_assignments\Week3\Serialization\Serialization\obj\Debug\netcoreapp3.1\SerializePeople.genruntimeconfig.cache
+D:\.NET-C#\SI_assignments\Week3\Serialization\Serialization\obj\Debug\netcoreapp3.1\SerializePeople.csprojAssemblyReference.cache

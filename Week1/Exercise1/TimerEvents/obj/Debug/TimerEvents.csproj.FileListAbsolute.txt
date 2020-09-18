@@ -1,0 +1,15 @@
+D:\.NET-C#\SI_assignments\Week1\Exercise1\TimerEvents\bin\Debug\TimerEvents.exe.config
+D:\.NET-C#\SI_assignments\Week1\Exercise1\TimerEvents\bin\Debug\TimerEvents.exe
+D:\.NET-C#\SI_assignments\Week1\Exercise1\TimerEvents\bin\Debug\TimerEvents.pdb
+D:\.NET-C#\SI_assignments\Week1\Exercise1\TimerEvents\obj\Debug\TimerEvents.csprojAssemblyReference.cache
+D:\.NET-C#\SI_assignments\Week1\Exercise1\TimerEvents\obj\Debug\MainWindow.g.cs
+D:\.NET-C#\SI_assignments\Week1\Exercise1\TimerEvents\obj\Debug\App.g.cs
+D:\.NET-C#\SI_assignments\Week1\Exercise1\TimerEvents\obj\Debug\TimerEvents_MarkupCompile.cache
+D:\.NET-C#\SI_assignments\Week1\Exercise1\TimerEvents\obj\Debug\TimerEvents_MarkupCompile.lref
+D:\.NET-C#\SI_assignments\Week1\Exercise1\TimerEvents\obj\Debug\MainWindow.baml
+D:\.NET-C#\SI_assignments\Week1\Exercise1\TimerEvents\obj\Debug\TimerEvents.g.resources
+D:\.NET-C#\SI_assignments\Week1\Exercise1\TimerEvents\obj\Debug\TimerEvents.Properties.Resources.resources
+D:\.NET-C#\SI_assignments\Week1\Exercise1\TimerEvents\obj\Debug\TimerEvents.csproj.GenerateResource.cache
+D:\.NET-C#\SI_assignments\Week1\Exercise1\TimerEvents\obj\Debug\TimerEvents.csproj.CoreCompileInputs.cache
+D:\.NET-C#\SI_assignments\Week1\Exercise1\TimerEvents\obj\Debug\TimerEvents.exe
+D:\.NET-C#\SI_assignments\Week1\Exercise1\TimerEvents\obj\Debug\TimerEvents.pdb
